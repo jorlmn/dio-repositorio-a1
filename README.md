@@ -1,7 +1,7 @@
 # Repositório para organização dos estudos
 ## Plano de estudos
 ### Novembro 22
-~~CS50 Introduction to Computer Science~~ [x]
+~~CS50 Introduction to Computer Science~~ ✔️
 ### Dezembro 22
 Pottencial .NET Developer
 ### Janeiro 23
