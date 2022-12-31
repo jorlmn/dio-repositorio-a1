@@ -3,7 +3,7 @@
 ### Novembro 22
 - ~~CS50 Introduction to Computer Science~~ ✔️
 ### Dezembro 22
-- Pottencial .NET Developer
+- ~~Pottencial .NET Developer~~ ✔️
 ### Janeiro 23
 - CS50 Introduction to Game Development
 - Microsoft .NET Training
